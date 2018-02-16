@@ -1,0 +1,22 @@
+{
+  "name": "moviedbwebhook",
+  "version": "1.0.0",
+  "description": "moviedbwebhook",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "moviedbwebhook"
+  },
+  "keywords": [
+    "moviedbwebhook"
+  ],
+  "author": "sneha",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2"
+  }
+}

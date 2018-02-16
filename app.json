@@ -1,0 +1,11 @@
+{
+    "name": "quote_webhook",
+    "description": "A very simple webhook that return you random quotes.",
+    "repository": "https://github.com/snehabagal/Webhook.git",
+    "keywords": [
+        "quote",
+        "api.ai",
+        "chatbot",
+        "webhook"
+    ]
+}
